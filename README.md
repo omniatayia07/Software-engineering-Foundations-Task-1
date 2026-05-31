@@ -1,1 +1,1 @@
-# Software-engineering-Foundations-Task-1
+# Smart Logic Calculator-Task-1
